@@ -15,6 +15,9 @@ parent: HackTheBox
 
 ### Nmap Scan
 
+<details>
+  <summary>Nmap Scan Result</summary>
+  
 ```text
 53/tcp   open  domain        Simple DNS Plus
 80/tcp   open  http          Microsoft IIS httpd 10.0
@@ -44,6 +47,7 @@ parent: HackTheBox
 Service Info: Host: DC; OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
+ </details>
 - Microsoft IIS 
 - Sub-Domain : `watch.streamio.htb`
 - Domain : `streamio.htb`
