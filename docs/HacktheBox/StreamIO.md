@@ -14,7 +14,7 @@ parent: HackTheBox
 # Enumeration 
 
 ### Nmap Scan
-
+ 
 ```text
 53/tcp   open  domain        Simple DNS Plus
 80/tcp   open  http          Microsoft IIS httpd 10.0
