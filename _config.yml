@@ -2,9 +2,11 @@ title: PuR3 S0uL
 description: Blogs and WriteUps
 theme: just-the-docs
 color_scheme: dark
-#plugins: jekyll-sitemap
 
 url: https://pur3-s0ul.github.io/pur3s0ul/
 
 aux_links:
   Template Repository: https://github.com/pur3-S0uL/pur3s0ul/
+
+plugins:
+  - jekyll-sitemap
