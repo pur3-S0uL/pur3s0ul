@@ -6,8 +6,6 @@ parent: HackTheBox
 
 # Catch
 
----
-
 # Box Info
 
 |-------|---------|
