@@ -4,6 +4,10 @@ title: "Catch"
 parent: HackTheBox
 ---
 
+# Catch
+
+---
+
 # Box Info
 
 |-------|---------|
