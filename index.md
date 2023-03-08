@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <h1 align='center'>W3lc0m3 !</h1>
-Myself **pur3-s0ul**,
+Myself **Amritpal Singh(pur3-s0ul)**,
 \
 I made this documentation site to upload my WriteUps for different CTF challenges and some other cool stuffs which I will learn in future and present it all people.
 
