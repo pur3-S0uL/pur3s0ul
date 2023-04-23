@@ -4,7 +4,7 @@ title: "Bro Science"
 parent: HackTheBox
 ---
 
-# Catch
+# Bro Science
 
 # Box Info
 
