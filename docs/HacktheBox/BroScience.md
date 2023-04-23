@@ -58,16 +58,16 @@ activate.php            [Status: 200]
 
 Testing these pages:
 - **User.php**
-![[../../resources/broscience/2.png]]
+![1](../../resources/broscience/2.png)
 
 **id** parameter is missing
 
-![[../../resources/broscience/3.png]]
+![2](../../resources/broscience/3.png)
 
 we can look for different users by changing the value of **id** parameter.
 
 - **activate.php**
-![[../../resources/broscience/4.png]]
+![3](../../resources/broscience/4.png)
 
 We can use this to activate our account to get access.
 
@@ -75,9 +75,9 @@ We can use this to activate our account to get access.
 
 We can see how these Images are loading:
 
-![[../../resources/broscience/5.png]]
+![4](../../resources/broscience/5.png)
 
-![../../resources/broscience/6.png]]
+![5](../../resources/broscience/6.png)
 
 **Attack detected**!! 
 
@@ -85,10 +85,10 @@ We can see how these Images are loading:
 
 After trying different methods one method that worked was **Double URL encoding**.
 
-![[../../resources/broscience/7.png]]
+![6](../../resources/broscience/7.png)
 
 now we know how to bypass the protection we can look into the source codes of different pages.
-![[../../resources/broscience/8.png]]
+![7](../../resources/broscience/8.png)
 
 **db_connect.php**
 ```php
@@ -240,7 +240,7 @@ echo $data;
 
 After getting the shell since we got password to database we can look for password from it and try cracking them and we got Salt as well.
 
-![[../../resources/broscience/db3.png]]
+![8](../../resources/broscience/db3.png)
 
 Used **hashcat** to crack password like this 
 ```
@@ -260,7 +260,7 @@ one of the password got **SSH** into the box.
 
 Using **Pspy** we can look for processes running by diffent users. Since after running **linpeas** could'nt found much interesting therefore moved to **pspy**.
 
-![[../../resources/broscience/9.png]]
+![9](../../resources/broscience/9.png)
 
 and we can look for a process run by root to renew SSL certificate.
 
