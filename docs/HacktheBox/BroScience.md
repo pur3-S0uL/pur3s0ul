@@ -42,7 +42,9 @@ Service Info: Host: broscience.htb; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 - `broscience.htb` domain name
 - HTTP and HTTPS servers
 
-#### Directory fuzzing
+---
+
+## Directory fuzzing
 
 used **FFUF** to fuzz for directories
 ```
@@ -71,7 +73,9 @@ we can look for different users by changing the value of **id** parameter.
 
 We can use this to activate our account to get access.
 
-#### LFI
+---
+
+## LFI
 
 We can see how these Images are loading:
 
@@ -81,7 +85,7 @@ We can see how these Images are loading:
 
 **Attack detected**!! 
 
-#### Bypassing LFI
+### Bypassing LFI
 
 After trying different methods one method that worked was **Double URL encoding**.
 
@@ -115,7 +119,9 @@ function generate_activation_code() {
 
 Function used to generate activation code.
 
-### Generation Activation code
+---
+
+## Generation Activation code
 
 `srand()` function in PHP is used to set seed value for the `rand()` function, which basically generate pseudo random numbers. Setting a particular seed value will generate the same set of numbers again and again. Here seed value is `time()`[ Timestamp in seconds]. 
 We can reduce the number of brute-forcing if we can generate the code at simillar time.
@@ -236,7 +242,9 @@ echo $data;
 ?>
 ```
 
-#### Database
+---
+
+## Database
 
 After getting the shell since we got password to database we can look for password from it and try cracking them and we got Salt as well.
 
