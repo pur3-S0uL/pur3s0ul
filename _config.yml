@@ -4,9 +4,9 @@ theme: just-the-docs
 color_scheme: dark
 
 #url: https://pur3-s0ul.github.io
-baseurl: "/pur3s0ul"
-aux_links:
-  Template Repository: https://github.com/pur3-S0uL/pur3s0ul
+baseurl: "https://pur3-s0ul.github.io/pur3s0ul"
+#aux_links:
+#  Template Repository: https://github.com/pur3-S0uL/pur3s0ul
 
 plugins:
   - jekyll-sitemap
