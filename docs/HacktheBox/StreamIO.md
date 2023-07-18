@@ -4,6 +4,8 @@ title: "StreamIO"
 parent: HackTheBox
 ---
 
+# StreamIO: HackTheBox WriteUP
+
 # Box Info
 
 |-------|---------|

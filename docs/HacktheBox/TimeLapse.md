@@ -4,6 +4,7 @@ title: "TimeLapse"
 parent: HackTheBox
 ---
 
+# TimeLapse: HackTheBox WriteUP
 # Box Info
 
 |-------|---------|

@@ -4,7 +4,7 @@ title: "Bro Science"
 parent: HackTheBox
 ---
 
-# Bro Science
+# Bro Science: HackTheBox WriteUP
 
 # Box Info
 

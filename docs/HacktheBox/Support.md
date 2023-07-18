@@ -4,6 +4,7 @@ title: "Support"
 parent: HackTheBox
 ---
 
+# Support: HackTheBox WriteUP
 # Box Info
 
 |-------|---------|

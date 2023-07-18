@@ -4,6 +4,8 @@ title: "Scrambled"
 parent: HackTheBox
 ---
 
+# Scrambled: HackTheBox WriteUP
+
 # Box Info
 
 |-------|---------|
