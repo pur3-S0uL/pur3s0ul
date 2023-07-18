@@ -13,7 +13,7 @@ I am a Cyber Secuirty enthusiast aiming to be a Penetration Tester by profession
 
 <script src="https://www.hackthebox.eu/badge/538767"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0d0958f1-aa9e-4060-986d-157698c1fdf1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-share-badge-id="0d0958f1-aa9e-4060-986d-157698c1fdf1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 You can reach me using Discord `@puR3#0311`
 
