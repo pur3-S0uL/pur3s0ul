@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Laughable File Infiltration"
+title: "CookieMonster"
 parent: "Digital Defenders Cybersecurity CTF"
 ---
 
